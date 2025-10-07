@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Ciklus2", "For Ciklus2\For Ciklus2.csproj", "{B9A1F9BE-55F9-4A6B-AB41-6F7A652D8CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A1F9BE-55F9-4A6B-AB41-6F7A652D8CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A1F9BE-55F9-4A6B-AB41-6F7A652D8CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A1F9BE-55F9-4A6B-AB41-6F7A652D8CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A1F9BE-55F9-4A6B-AB41-6F7A652D8CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A80706A3-3165-4BDA-B008-4CD83C2D315B}
+	EndGlobalSection
+EndGlobal
